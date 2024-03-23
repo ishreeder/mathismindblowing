@@ -1,5 +1,5 @@
 services:
   -type: web
-  name: mathismindblowing
+  name: http://mathisamazing.thaehomeserver
   env: docker
   plan: free
