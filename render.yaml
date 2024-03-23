@@ -1,0 +1,5 @@
+services:
+  -type: web
+  name: mathismindblowing
+  env: docker
+  plan: free
